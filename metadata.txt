@@ -1,0 +1,7 @@
+Name: Example Captcha Screen
+Plugin URL: http://zine.pocoo.org
+Author: Ethan Jucovy <ethan.jucovy@gmail.com>
+Author URL: http://www.coactivate.org
+License: BSD
+Version: 0.1
+Description: This plugin demonstrates how you can implement a CAPTCHA with no external services.
